@@ -1,0 +1,11 @@
+{
+  "canisters": {
+    "backend": {
+      "type": "custom",
+      "candid": "backend/backend.did",
+      "main": "backend/src/lib.rs",
+      "package": "backend/Cargo.toml",
+      "wasm": "backend/target/wasm32-unknown-unknown/release/backend.wasm"
+    }
+  }
+}
