@@ -137,5 +137,3 @@ See CONTRIBUTING.md (if present) for details.
 - [Rust](https://www.rust-lang.org/)
 
 ***
-
-**Happy hacking! 🚀**
